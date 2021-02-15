@@ -30,11 +30,34 @@ var bg = {
 }
 
 var en = {
-    'add-new-record':'Create',
+    'add-new-record':'Add New',
     'filters' : 'Filters',
 
+    //options column tooltips
+    'tooltip-view': 'View',
+    'tooltip-edit': 'Edit',
+    'tooltip-delete': 'Delete',
 
-    'delete-question': 'Do you want to delete that item?',
+    //dialogs
+    'close-button': 'Cancel',
+    'clear-filters': 'Clear Filters',
+    'apply-filters': 'Apply Filters',
+
+    'create-modal-title': 'Add New',
+    'edit-modal-title': 'Edit',
+    'save-changes-button': 'Save changes',
+    'create-record-button': 'Add',
+
+    //delete
+    'delete-question': 'Do you want to remove the selected record?',
+    'delete-cancel': 'Cancel',
+    'delete-confirm': 'Delete',
+
+    //pages
+    'page-previous': '<<',
+    'page-next': '>>',
+    'page-first': '<< First',
+    'page-last' : 'Last >>',
 
 }
 
